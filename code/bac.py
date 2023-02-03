@@ -30,7 +30,7 @@ def prepare_input(path):
 
 def back_tracking(u, current_time, current_cost, current_route):
     global best_cost
-    if (best_cost < current_cost):
+    if (best_cost < current_cost + (data['n'] - len(current_route)) * min_cost):
         return
     if (len(current_route) == data['n']):
         best_cost = min(best_cost, current_cost)
@@ -50,14 +50,14 @@ def back_tracking(u, current_time, current_cost, current_route):
 
 def main():
     
-    global best_cost
+    global best_cost, data, min_cost
     best_cost = math.inf
-    global data 
-    data = prepare_input('Data/15points_5days_doChenh88costNho1_5.txt')
+    data = prepare_input('Data/10points_1day.txt')
+    min_cost = min(data['cost'])
     import time
     # get the start time
     st = time.time()
-
+    
     for i in range(data['early'][0], data['late'][0] + 1):
         back_tracking(0, i, 0, [0])
     # get the end time
