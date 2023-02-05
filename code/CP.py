@@ -35,7 +35,7 @@ def main():
     # Creates the model.
     model = cp_model.CpModel()
     # init 
-    data = prepare_input('Data/25points_3days.txt')
+    data = prepare_input('Data/15points_3days_doChenh92costNho1_5.txt')
 
     # Creates the variables.
     P = list()

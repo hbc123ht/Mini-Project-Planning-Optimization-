@@ -52,7 +52,7 @@ def main():
     
     global best_cost, data, min_cost
     best_cost = math.inf
-    data = prepare_input('Data/10points_1day.txt')
+    data = prepare_input('Data/25points_3days_doChenh92costNho1_5.txt')
     min_cost = min(data['cost'])
     import time
     # get the start time
