@@ -1,0 +1,222 @@
+*******************************
+Lan thu 63
+best tour: [0, 4, 2, 3, 10, 7, 9, 5, 6, 8, 1]
+cost: 316; so loi: 1
+fitness: 1000316
+Thoi gian chay: 6.3230996
+*******************************
+Lan thu 64
+best tour: [0, 10, 2, 4, 6, 1, 3, 9, 5, 7, 8]
+cost: 361; so loi: 1
+fitness: 1000361
+Thoi gian chay: 6.384666899999999
+*******************************
+Lan thu 65
+best tour: [0, 3, 4, 2, 7, 10, 9, 1, 6, 5, 8]
+cost: 380; so loi: 1
+fitness: 1000380
+Thoi gian chay: 6.1096564
+*******************************
+Lan thu 66
+best tour: [0, 9, 3, 10, 4, 7, 1, 5, 6, 2, 8]
+cost: 526; so loi: 0
+fitness: 526
+Thoi gian chay: 5.983519999999999
+*******************************
+Lan thu 67
+best tour: [0, 3, 8, 7, 1, 10, 9, 5, 2, 4, 6]
+cost: 526; so loi: 0
+fitness: 526
+Thoi gian chay: 5.960250000000002
+*******************************
+Lan thu 68
+best tour: [0, 3, 9, 6, 1, 2, 5, 4, 10, 8, 7]
+cost: 526; so loi: 0
+fitness: 526
+Thoi gian chay: 6.055008700000002
+*******************************
+Lan thu 69
+best tour: [0, 3, 9, 7, 4, 10, 6, 2, 1, 8, 5]
+cost: 316; so loi: 1
+fitness: 1000316
+Thoi gian chay: 6.033430199999998
+*******************************
+Lan thu 70
+best tour: [0, 10, 1, 9, 5, 2, 3, 6, 4, 8, 7]
+cost: 526; so loi: 0
+fitness: 526
+Thoi gian chay: 6.391632699999995
+*******************************
+Lan thu 71
+best tour: [0, 4, 6, 7, 8, 9, 1, 10, 5, 2, 3]
+cost: 531; so loi: 0
+fitness: 531
+Thoi gian chay: 6.435276600000002
+*******************************
+Lan thu 72
+best tour: [0, 7, 10, 8, 2, 3, 4, 1, 6, 5, 9]
+cost: 526; so loi: 0
+fitness: 526
+Thoi gian chay: 6.128384799999999
+*******************************
+Lan thu 73
+best tour: [0, 7, 6, 5, 10, 1, 4, 9, 8, 3, 2]
+cost: 436; so loi: 0
+fitness: 436
+Thoi gian chay: 6.397072199999997
+*******************************
+Lan thu 74
+best tour: [0, 7, 1, 6, 8, 10, 2, 9, 5, 4, 3]
+cost: 436; so loi: 0
+fitness: 436
+Thoi gian chay: 6.648165700000007
+*******************************
+Lan thu 75
+best tour: [0, 3, 7, 4, 8, 2, 6, 5, 9, 1, 10]
+cost: 531; so loi: 0
+fitness: 531
+Thoi gian chay: 6.211498899999995
+*******************************
+Lan thu 76
+best tour: [0, 4, 10, 5, 1, 9, 8, 7, 3, 6, 2]
+cost: 380; so loi: 1
+fitness: 1000380
+Thoi gian chay: 6.044342
+*******************************
+Lan thu 77
+best tour: [0, 8, 10, 4, 1, 5, 7, 9, 3, 2, 6]
+cost: 531; so loi: 0
+fitness: 531
+Thoi gian chay: 6.546631399999995
+*******************************
+Lan thu 78
+best tour: [0, 10, 8, 5, 4, 7, 6, 1, 9, 2, 3]
+cost: 436; so loi: 0
+fitness: 436
+Thoi gian chay: 6.7739452
+*******************************
+Lan thu 79
+best tour: [0, 6, 2, 4, 3, 7, 10, 5, 9, 8, 1]
+cost: 357; so loi: 1
+fitness: 1000357
+Thoi gian chay: 6.710825900000003
+*******************************
+Lan thu 80
+best tour: [0, 6, 3, 7, 1, 8, 9, 2, 4, 5, 10]
+cost: 436; so loi: 0
+fitness: 436
+Thoi gian chay: 6.140298900000005
+*******************************
+Lan thu 81
+best tour: [0, 1, 8, 2, 4, 9, 5, 7, 6, 3, 10]
+cost: 436; so loi: 0
+fitness: 436
+Thoi gian chay: 6.092701099999999
+*******************************
+Lan thu 82
+best tour: [0, 6, 7, 5, 1, 4, 3, 2, 10, 8, 9]
+cost: 531; so loi: 0
+fitness: 531
+Thoi gian chay: 6.155472399999994
+*******************************
+Lan thu 83
+best tour: [0, 6, 4, 2, 5, 3, 7, 1, 9, 10, 8]
+cost: 436; so loi: 0
+fitness: 436
+Thoi gian chay: 6.118783100000002
+*******************************
+Lan thu 84
+best tour: [0, 1, 2, 6, 10, 9, 5, 8, 3, 4, 7]
+cost: 436; so loi: 0
+fitness: 436
+Thoi gian chay: 6.149018600000005
+*******************************
+Lan thu 85
+best tour: [0, 3, 7, 10, 6, 9, 5, 4, 1, 2, 8]
+cost: 357; so loi: 1
+fitness: 1000357
+Thoi gian chay: 6.087938100000002
+*******************************
+Lan thu 86
+best tour: [0, 8, 1, 4, 7, 2, 6, 9, 10, 3, 5]
+cost: 436; so loi: 0
+fitness: 436
+Thoi gian chay: 6.297339599999987
+*******************************
+Lan thu 87
+best tour: [0, 9, 3, 7, 8, 5, 10, 2, 6, 4, 1]
+cost: 436; so loi: 0
+fitness: 436
+Thoi gian chay: 6.171847600000007
+*******************************
+Lan thu 88
+best tour: [0, 5, 8, 1, 9, 2, 4, 7, 3, 10, 6]
+cost: 436; so loi: 0
+fitness: 436
+Thoi gian chay: 6.1625602000000015
+*******************************
+Lan thu 89
+best tour: [0, 7, 10, 5, 4, 9, 2, 8, 3, 6, 1]
+cost: 526; so loi: 0
+fitness: 526
+Thoi gian chay: 6.391899200000012
+*******************************
+Lan thu 90
+best tour: [0, 10, 6, 3, 1, 2, 4, 5, 9, 8, 7]
+cost: 526; so loi: 0
+fitness: 526
+Thoi gian chay: 6.147098100000022
+*******************************
+Lan thu 91
+best tour: [0, 2, 1, 7, 5, 8, 3, 4, 9, 6, 10]
+cost: 373; so loi: 1
+fitness: 1000373
+Thoi gian chay: 6.15634350000002
+*******************************
+Lan thu 92
+best tour: [0, 7, 1, 10, 2, 9, 6, 5, 4, 3, 8]
+cost: 418; so loi: 1
+fitness: 1000418
+Thoi gian chay: 6.120472699999993
+*******************************
+Lan thu 93
+best tour: [0, 2, 8, 5, 1, 9, 6, 3, 7, 10, 4]
+cost: 361; so loi: 1
+fitness: 1000361
+Thoi gian chay: 6.210401399999995
+*******************************
+Lan thu 94
+best tour: [0, 2, 8, 6, 10, 5, 9, 3, 7, 1, 4]
+cost: 526; so loi: 0
+fitness: 526
+Thoi gian chay: 6.206586899999991
+*******************************
+Lan thu 95
+best tour: [0, 7, 8, 9, 1, 4, 3, 5, 2, 10, 6]
+cost: 357; so loi: 1
+fitness: 1000357
+Thoi gian chay: 6.811535599999985
+*******************************
+Lan thu 96
+best tour: [0, 9, 7, 6, 1, 5, 8, 4, 10, 2, 3]
+cost: 436; so loi: 0
+fitness: 436
+Thoi gian chay: 6.1800560000000075
+*******************************
+Lan thu 97
+best tour: [0, 6, 9, 7, 8, 4, 2, 5, 3, 1, 10]
+cost: 526; so loi: 0
+fitness: 526
+Thoi gian chay: 6.036035900000002
+*******************************
+Lan thu 98
+best tour: [0, 6, 8, 5, 3, 1, 7, 10, 9, 4, 2]
+cost: 526; so loi: 0
+fitness: 526
+Thoi gian chay: 6.064707799999979
+*******************************
+Lan thu 99
+best tour: [0, 7, 4, 5, 3, 8, 1, 2, 9, 6, 10]
+cost: 436; so loi: 0
+fitness: 436
+Thoi gian chay: 6.102890400000007
