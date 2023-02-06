@@ -31,7 +31,7 @@ def prepare_input(path):
     
 def main():
     # init 
-    data = prepare_input('Data/25points_3days.txt')
+    data = prepare_input('Data/15points_3days_doChenh92costNho1_5.txt')
 
     # Create the mip solver with the SCIP backend.
     solver = pywraplp.Solver.CreateSolver('SCIP')
