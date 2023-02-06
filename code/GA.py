@@ -302,10 +302,10 @@ def write_file(path, content):
     file.close()    
 
 def main():
-    path_data = ['10points_1day.txt', '15points_5days_doChenh88costNho1_5.txt', '25points_3days.txt', '50points_5days.txt']
+    path_data = ['10_nodes.txt', '15_nodes.txt', '25_nodes.txt', '50_nodes.txt']
     for path in path_data:
-        res_path = f'res_ga/{path}'
-        data = get_data("Data/" + path)
+        res_path = f'../res_ga/{path}'
+        data = get_data("../Data/" + path)
         for i in range(63, 100):
             start = timer()
             ga_population = Population(
