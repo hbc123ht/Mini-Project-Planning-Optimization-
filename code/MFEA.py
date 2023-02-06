@@ -72,7 +72,7 @@ class MFEA_FUNC(AbstractTask):
             arrive_time = curr_time + data['time'][curr][t]
                 
             if arrive_time > data['late'][t]:
-                return 1e9 - i * 1000 + cost
+                return (gene.size - i) * 10000 + cost
 
             assert t != curr and data['cost'][curr][t] > 0
 
@@ -151,15 +151,15 @@ class MFEA_Mutation(AbstractMutation):
             new_genes:np.ndarray = np.copy(ind.genes)
 
             i, j = np.random.randint(0, self.dim_uss, 2)
-            #new_genes[i], new_genes[j] = new_genes[j], new_genes[i]
-            new_genes[i:j+1] = new_genes[i:j+1][::-1]
+            new_genes[i], new_genes[j] = new_genes[j], new_genes[i]
+            # new_genes[i:j+1] = new_genes[i:j+1][::-1]
             newInd = self.IndClass(genes= new_genes)
             newInd.skill_factor = ind.skill_factor
             return newInd
         else:
             i, j = np.random.randint(0, self.dim_uss, 2)
-            #ind.genes[i], ind.genes[j] = ind.genes[j], ind.genes[i]
-            ind.genes[i:j + 1] = ind.genes[i:j + 1][::-1]
+            ind.genes[i], ind.genes[j] = ind.genes[j], ind.genes[i]
+            #ind.genes[i:j + 1] = ind.genes[i:j + 1][::-1]
             return ind
 
 
@@ -176,7 +176,7 @@ for i in range(1):
         selection= ElitismSelection(p = 0.3)
     )
     solves = baseModel.fit(
-        nb_generations = 500, rmp = 0.4, mutp=0.2, nb_inds_each_task= 2000, evaluate_initial_skillFactor= True
+        nb_generations = 500, rmp = 0.4, mutp=0.2, nb_inds_each_task= 1000, evaluate_initial_skillFactor= True
     )
     for solve in solves:
         idx = solve.skill_factor
